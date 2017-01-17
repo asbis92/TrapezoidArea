@@ -1,0 +1,6 @@
+D:\Projects VS\Proba\Proba\bin\Debug\Proba.exe.config
+D:\Projects VS\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+D:\Projects VS\Proba\Proba\bin\Debug\Proba.exe
+D:\Projects VS\Proba\Proba\bin\Debug\Proba.pdb
+D:\Projects VS\Proba\Proba\obj\Debug\Proba.exe
+D:\Projects VS\Proba\Proba\obj\Debug\Proba.pdb
